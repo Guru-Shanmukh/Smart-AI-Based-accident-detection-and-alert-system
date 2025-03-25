@@ -1,4 +1,4 @@
-🚀 Project Name: Smart AI-Based Accident Detection & Alert System
+🚀 Project Name: Smart AI-Based Accident Detection & Alert System using CNN - Deep Learning\
 🌍 SDG Goal: SDG 11 - Sustainable Cities & Communities (Making cities safer with smart accident response systems).
 
 
