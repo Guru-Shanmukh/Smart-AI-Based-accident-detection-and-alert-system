@@ -49,3 +49,6 @@ skimage : Enhances image processing for detection
 ✅ Works even in network-less areas using alternate communication methods.
 ✅ Makes cities safer & smarter (Aligns with SDG 11).
 ✅ Can be used in highways, cities, and rural areas.
+ A screenshot of a phone
+
+
